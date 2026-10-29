@@ -1,3 +1,3 @@
 # garra-iberica-discord
 
-Copia temporal de dos imágenes para subirlas al servidor de Discord GARRA IBÉRICA.
+Repositorio temporal ya vaciado: sirvió para pasar dos imágenes al servidor de Discord GARRA IBÉRICA (29/10/2026). Se puede borrar.
